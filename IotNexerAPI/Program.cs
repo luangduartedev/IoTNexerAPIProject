@@ -1,7 +1,6 @@
-using IoTNexerAPI.Domain.Entity;
-using IoTNexerAPI.Domain.Repository;
-using IoTNexerAPI.Domain.Interfaces;
+using IoTNexerAPI.Models;
 using IoTNexerAPI.Middlewares;
+using IoTNexerAPI.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 

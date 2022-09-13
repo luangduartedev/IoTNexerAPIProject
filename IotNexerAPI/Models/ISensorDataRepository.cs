@@ -1,8 +1,7 @@
-﻿using IoTNexerAPI.Domain.Entity;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace IoTNexerAPI.Domain.Interfaces
+namespace IoTNexerAPI.Models
 {
     public interface ISensorDataRepository<T>
     {

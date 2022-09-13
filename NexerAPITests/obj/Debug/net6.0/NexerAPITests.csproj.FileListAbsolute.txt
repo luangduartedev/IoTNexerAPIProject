@@ -111,3 +111,9 @@ C:\Users\LuanGabrielDuarte\Source\Repos\NexerAPITests\obj\Debug\net6.0\refint\Ne
 C:\Users\LuanGabrielDuarte\Source\Repos\NexerAPITests\obj\Debug\net6.0\NexerAPITests.pdb
 C:\Users\LuanGabrielDuarte\Source\Repos\NexerAPITests\obj\Debug\net6.0\NexerAPITests.genruntimeconfig.cache
 C:\Users\LuanGabrielDuarte\Source\Repos\NexerAPITests\obj\Debug\net6.0\ref\NexerAPITests.dll
+C:\Users\LuanGabrielDuarte\Desktop\IoTNexerAPIProject\NexerAPITests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\LuanGabrielDuarte\Desktop\IoTNexerAPIProject\NexerAPITests\obj\Debug\net6.0\NexerAPITests.csproj.AssemblyReference.cache
+C:\Users\LuanGabrielDuarte\Desktop\IoTNexerAPIProject\NexerAPITests\obj\Debug\net6.0\NexerAPITests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuanGabrielDuarte\Desktop\IoTNexerAPIProject\NexerAPITests\obj\Debug\net6.0\NexerAPITests.AssemblyInfoInputs.cache
+C:\Users\LuanGabrielDuarte\Desktop\IoTNexerAPIProject\NexerAPITests\obj\Debug\net6.0\NexerAPITests.AssemblyInfo.cs
+C:\Users\LuanGabrielDuarte\Desktop\IoTNexerAPIProject\NexerAPITests\obj\Debug\net6.0\NexerAPITests.csproj.CoreCompileInputs.cache

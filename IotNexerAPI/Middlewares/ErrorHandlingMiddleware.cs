@@ -27,7 +27,8 @@ namespace IoTNexerAPI.Middlewares
 
         private static Task HandleExceptionAsync(HttpContext context, Exception exception)
         {
-            var code = HttpStatusCode.InternalServerError; // 500 if unexpected
+            //TODO: Create more Exception Responses for each possible result.
+            var code = HttpStatusCode.InternalServerError; 
 
             if (exception is Exception) code = HttpStatusCode.NotFound;
 

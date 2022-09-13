@@ -1,5 +1,5 @@
 ﻿
-namespace IoTNexerAPI.Domain.Entity
+namespace IoTNexerAPI.Models
 {
     public class SensorData
     {

@@ -1,7 +1,5 @@
-using Azure;
 using Azure.Storage.Blobs;
-using IoTNexerAPI.Domain.Entity;
-using System;
+using IoTNexerAPI.Models;
 
 namespace NexerAPITests
 {
@@ -50,7 +48,7 @@ namespace NexerAPITests
         public void GetBlobClient_ConrrectParamatersButFileDoesNotExists_ReturnError()
         {
             BlobContainerClient container = new BlobContainerClient(_connectionString, _containerName);
-            BlobClient blobClient = container.GetBlobClient("dockan/humidity/2000-01-11.csv");
+            BlobClient blobClient = container.GetBlobClient("dockan/humidity/1980-01-11.csv");
 
             bool result = blobClient.Exists().Value;
 
@@ -97,5 +95,7 @@ namespace NexerAPITests
 
             Assert.AreEqual(result, "0,5");
         }
+
+        //TODO: Create TestMethod to ReadBlobStream method with scenarios: ReadBlobStream_WrongMemoryStream_ReturnError() and ReadBlobStream_CorrectMemoryStream_ReturnSuccess()
     }
 }
