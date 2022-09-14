@@ -13,7 +13,7 @@ There are many TODOs in the code that should be develop in a near future for bet
 
 # API Postman Documentation
 
-- Document: https://documenter.getpostman.com/view/22898201/2s7YYr9Qsr
+- Document: https://documenter.getpostman.com/view/23356169/2s7YYvb368
 
 
 - Postman Collection: [IoTNexerAPICollection.postman_collection.zip](https://github.com/luangduartedev/IoTNexerAPIProject/files/9553410/IoTNexerAPICollection.postman_collection.zip)
